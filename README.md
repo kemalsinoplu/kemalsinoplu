@@ -6,7 +6,7 @@ I'm Kemal from Turkey, and I do study on Data Science and Machine Learning. I re
 ## Skills and Experience
 * 🐍 Python
 * 💻 HTML & CSS
-* 📱 Flutter 
+* 📱  Flutter
 
 Skills: PYTHON / HTML / CSS / C / Algorithm
 
