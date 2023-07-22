@@ -1,8 +1,12 @@
-### Hi there 👋, Kemal Sinoplu
-#### Junior Data Scientist
 ![Junior Data Scientist](https://github.com/kemalsinoplu/kemalsinoplu/blob/main/github.png?raw=true)
 
+# Kemal Sinoplu
 I'm Kemal from Turkey, and I do study on Data Science and Machine Learning. I really enjoy learning languages and frameworks like Python and Pandas, as well as work in Data Analyze. I also enjoy C programming, Html & CSS, Flutter , and App and Web design in general.
+
+## Skills and Experience
+* 🐍 Python
+* 💻 HTML & CSS
+* 📱 Flutter 
 
 Skills: PYTHON / HTML / CSS / C / Algorithm
 
