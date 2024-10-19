@@ -1,6 +1,6 @@
 
 
-# Kemal Sinoplu
+# Kemal Pasha
 I'm Kemal from Turkey, and I do study on Data Science and Machine Learning. I really enjoy learning languages and frameworks like Python and Pandas, as well as work in Data Analyze. 
 
 
